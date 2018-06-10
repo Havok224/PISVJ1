@@ -12,7 +12,7 @@ namespace ConsoleApplication5
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("promjena");
-            //
+            //neka promjena
         }
     }
 }
